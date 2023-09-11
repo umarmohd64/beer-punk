@@ -1,0 +1,25 @@
+
+
+.beer-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    min-height: 80vh;
+  }
+  .search__container{
+    height: 5vh;
+    padding-block: 10px;
+  
+  }
+
+.search__container .search__input{
+    padding: 8px 20px;
+    border-radius: 25px;
+    border: 1px solid #A8DF8E;
+}
+/* .search__container .search__input:hover,
+.search__container .search__input:focus
+{
+    border-radius: 25px;
+} */
